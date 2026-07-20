@@ -30,11 +30,8 @@ amazon-clone/
 
 ## Screenshot
 
-```
-images/Screenshot1.png
-images/Screenshot2.png
-```
-
+![Amazon Clone](Screenshot1.png)
+![Amazon Clone](Screenshot2.png)
 
 
 ## Purpose
